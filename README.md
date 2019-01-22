@@ -2,8 +2,7 @@
 
 ##Cara membuat new reporsitory
 
-**Langkah pertama** 
-
+**Langkah pertama**
 hubungkan folder dengan gitbas, lalu masukan script di bawah ini
 ![hasilnya](https://github.com/rizwan523/Latihan-1/blob/master/q.JPG)
 
@@ -23,4 +22,5 @@ hubungkan folder dengan gitbas, lalu masukan script di bawah ini
 ![hasilnya](https://github.com/rizwan523/Latihan-1/blob/master/y.JPG)
 
 Jika sudah maka refresh di halaman gitbash
+
 jika salah coba lagi
