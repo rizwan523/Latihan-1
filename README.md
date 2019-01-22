@@ -1,6 +1,6 @@
 #latihan-1
 
-#Cara membuat new reporsitory
+**Cara membuat new reporsitory**
 
 **Langkah pertama**
 
