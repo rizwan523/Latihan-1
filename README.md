@@ -3,6 +3,7 @@
 ##Cara membuat new reporsitory
 
 **Langkah pertama**
+
 hubungkan folder dengan gitbas, lalu masukan script di bawah ini
 ![hasilnya](https://github.com/rizwan523/Latihan-1/blob/master/q.JPG)
 
